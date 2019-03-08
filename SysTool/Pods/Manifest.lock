@@ -1,0 +1,79 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Bugly (2.5.0)
+  - EasyShowView (2.1.4):
+    - EasyShowView/EasyAlert (= 2.1.4)
+    - EasyShowView/EasyEmpty (= 2.1.4)
+    - EasyShowView/EasyLoading (= 2.1.4)
+    - EasyShowView/EasyShowUtils (= 2.1.4)
+    - EasyShowView/EasyText (= 2.1.4)
+  - EasyShowView/EasyAlert (2.1.4):
+    - EasyShowView/EasyShowUtils
+  - EasyShowView/EasyEmpty (2.1.4):
+    - EasyShowView/EasyShowUtils
+  - EasyShowView/EasyLoading (2.1.4):
+    - EasyShowView/EasyShowUtils
+  - EasyShowView/EasyShowUtils (2.1.4)
+  - EasyShowView/EasyText (2.1.4):
+    - EasyShowView/EasyShowUtils
+  - Google-Mobile-Ads-SDK (7.37.0)
+  - MJRefresh (3.1.15.7)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - UMCAnalytics (5.5.2):
+    - UMCCommon
+  - UMCCommon (1.5.3)
+  - UMCSecurityPlugins (1.0.6)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Bugly
+  - EasyShowView
+  - Google-Mobile-Ads-SDK
+  - MJRefresh
+  - SDWebImage
+  - UMCAnalytics
+  - UMCCommon
+  - UMCSecurityPlugins
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Bugly
+    - EasyShowView
+    - Google-Mobile-Ads-SDK
+    - MJRefresh
+    - SDWebImage
+    - UMCAnalytics
+    - UMCCommon
+    - UMCSecurityPlugins
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  EasyShowView: ec832e175d5926baef413e2dc095fb4ec5c3add4
+  Google-Mobile-Ads-SDK: d028682d7450749a1955679da050eaf70d997b3e
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  UMCAnalytics: 6654fd3c8201ff6da5c86a3ae29cd5c8436d3b7b
+  UMCCommon: 016af43c0f769feb1ae1861d65aaf2b23b89c9c7
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+
+PODFILE CHECKSUM: 58b940ea9073c6524a0d4eea6e56b43dc4841f63
+
+COCOAPODS: 1.5.0
